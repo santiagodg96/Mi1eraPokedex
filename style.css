@@ -1,0 +1,32 @@
+form {
+    width: 200px;
+    margin: 20px auto;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+}
+
+.poke-card {
+    position: relative;
+    height: fit-content;
+    font-family: 'Gemunu Libre', monospace;
+    max-width: 300px;
+    border-radius: 4px;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    background-image: url(/Elementos/wallpaper.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: 1px solid black;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    
+}
+
+.tittle{
+    margin-top: 20px;
+}
